@@ -1,1 +1,2 @@
-# http_repo_day_2
+# javascript-tdd-setup
+Bootcamp Javascript TDD setup
